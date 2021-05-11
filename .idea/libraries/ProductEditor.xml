@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProductEditor">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.dat215/producteditor/ProductEditor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
